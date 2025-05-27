@@ -4,6 +4,6 @@ Projekt służy wygenerowaniu diety w zakresie 1600-2000 rozłożone na 3 posił
 
 ## Technologie
 
---java
+--[java]
 
 W celu otworzenia należy użyć biblioteki JDE 1.8
